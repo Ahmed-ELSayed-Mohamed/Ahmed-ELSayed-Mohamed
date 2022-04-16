@@ -24,12 +24,14 @@ I am Full Stack Developer with a strong problem solving, mathematical background
                                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
                                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
                                 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-                    </p>### Socials  
+                    </p>
+                    
+                  ### Socials
+                  
+                  
                 <p align="left">
                           
-                      <a href="https://www.github.com/Ahmed-ELSayed-Mohamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/ahmed-el-sayed-0201a021b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      <a href="https://www.github.com/Ahmed-ELSayed-Mohamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/Ahmed-ELSayed-Mohamed"><img src="https://github-readme-stats.vercel.app/api?username=Ahmed-ELSayed-Mohamed&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Ahmed-ELSayed-Mohamed's GitHub stats" /></a><a
                       href="http://www.github.com/Ahmed-ELSayed-Mohamed"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-ELSayed-Mohamed&stroke=ffffff&background=1e3a8a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
