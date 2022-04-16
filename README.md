@@ -32,19 +32,19 @@ I am Full Stack Developer with a strong problem solving, mathematical background
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Ahmed-ELSayed-Mohamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Ahmed-ELSayed-Mohamed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmed-el-sayed-0201a021b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ahmed-ELSayed-Mohamed"><img src="https://github-readme-stats.vercel.app/api?username=Ahmed-ELSayed-Mohamed&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Ahmed-ELSayed-Mohamed's GitHub stats" /></a>
+<a href="http://www.github.com/Ahmed-ELSayed-Mohamed"><img src="https://github-readme-stats.vercel.app/api?username=Ahmed-ELSayed-Mohamed&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="Ahmed-ELSayed-Mohamed's GitHub stats" /></a>
 
-<a href="http://www.github.com/Ahmed-ELSayed-Mohamed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-ELSayed-Mohamed&stroke=ffffff&background=1e3a8a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Ahmed-ELSayed-Mohamed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-ELSayed-Mohamed&stroke=3382ed&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/Ahmed-ELSayed-Mohamed"><img src="https://activity-graph.herokuapp.com/graph?username=Ahmed-ELSayed-Mohamed&bg_color=1e3a8a&color=ffffff&line=000000&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Ahmed-ELSayed-Mohamed"><img src="https://activity-graph.herokuapp.com/graph?username=Ahmed-ELSayed-Mohamed&bg_color=ffffff&color=3382ed&line=000000&point=3382ed&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Ahmed-ELSayed-Mohamed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-ELSayed-Mohamed&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Ahmed-ELSayed-Mohamed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-ELSayed-Mohamed&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Ahmed-ELSayed-Mohamed/https://github.com/Ahmed-ELSayed-Mohamed/E-commerce-shopping-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELSayed-Mohamed&repo=https://github.com/Ahmed-ELSayed-Mohamed/E-commerce-shopping-app&title_color=3382ed&text_color=ffffff&icon_color=000000&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Ahmed-ELSayed-Mohamed/https://github.com/Ahmed-ELSayed-Mohamed/E-commerce-shopping-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-ELSayed-Mohamed&repo=https://github.com/Ahmed-ELSayed-Mohamed/E-commerce-shopping-app&title_color=3382ed&text_color=3382ed&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
