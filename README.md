@@ -1,14 +1,14 @@
 Hi 👋 My name is Ahmed El Sayed
 ===============================
 
-Full Stack Doveloper
+Full Stack Developer 
 --------------------
 
 I am Full Stack Developer with a strong problem solving, mathematical background, proficiency with several programming languages and technologies
 
 * 🌍  I'm based in Cairo Egypt
 * ✉️  You can contact me at [ahmed.elsayed.ismail77@gmail.com](mailto:ahmed.elsayed.ismail77@gmail.com)
-* 🧠  I'm learning .NET Core
+* 🧠  I'm learning MicroService
 
 ### Skills
 
